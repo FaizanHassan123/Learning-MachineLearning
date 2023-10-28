@@ -4,3 +4,5 @@
 *.png
 *.jpg!d
 *.JPG
+*.webp
+cat-or-dog/flagged
