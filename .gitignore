@@ -7,3 +7,4 @@
 *.webp
 cat-or-dog/flagged
 *.pkl
+*.ipynb_checkpoints
